@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41397" started-at="2019-09-24T18:01:40Z" finished-at="2019-09-24T18:02:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41397" started-at="2019-09-24T18:01:40Z" finished-at="2019-09-24T18:02:21Z">
+      <class name="com.training.sanity.tests.ComplexTC_MultiUserRegisterAsTeacher">
+        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.training.sanity.tests.ComplexTC_MultiUserRegisterAsTeacher@59fa1d9b]" name="setUpBeforeClass" is-config="true" duration-ms="10343" started-at="2019-09-24T23:31:40Z" finished-at="2019-09-24T23:31:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeClass -->
+        <test-method status="PASS" signature="ClickOnSignUp()[pri:0, instance:com.training.sanity.tests.ComplexTC_MultiUserRegisterAsTeacher@59fa1d9b]" name="ClickOnSignUp" duration-ms="3022" started-at="2019-09-24T23:31:50Z" finished-at="2019-09-24T23:31:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnSignUp -->
+        <test-method status="PASS" signature="FillTeacherInfo(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.training.sanity.tests.ComplexTC_MultiUserRegisterAsTeacher@59fa1d9b]" name="FillTeacherInfo" duration-ms="12575" started-at="2019-09-24T23:31:54Z" data-provider="excel-inputs" finished-at="2019-09-24T23:32:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Arpit2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Shetty]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[arp@gamil.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Id_arp2]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Pw_arp2]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Pw_arp2]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[3.456789098E9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FillTeacherInfo -->
+        <test-method status="PASS" signature="FillTeacherInfo(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.training.sanity.tests.ComplexTC_MultiUserRegisterAsTeacher@59fa1d9b]" name="FillTeacherInfo" duration-ms="13476" started-at="2019-09-24T23:32:07Z" data-provider="excel-inputs" finished-at="2019-09-24T23:32:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Priya]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[saini]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ps@gamil.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Id_Priya]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Pw_Priya]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Pw_Priya]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[3.456789098E9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FillTeacherInfo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.training.sanity.tests.ComplexTC_MultiUserRegisterAsTeacher@59fa1d9b]" name="tearDown" is-config="true" duration-ms="1000" started-at="2019-09-24T23:32:20Z" finished-at="2019-09-24T23:32:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.training.sanity.tests.ComplexTC_MultiUserRegisterAsTeacher -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
